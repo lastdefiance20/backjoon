@@ -3,7 +3,7 @@ import sys
 def permutation(N, M):
     save = []
     
-    while True:
+    for i in range(M):
         for x in range(N):
             if
 
